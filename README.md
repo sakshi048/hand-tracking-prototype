@@ -50,3 +50,14 @@ shows a clear "DANGER DANGER" warning.
 - OpenCV
 - NumPy
 
+## 🎥 Demo Video
+
+Watch the hand-tracking demo here:
+
+👉 https://drive.google.com/file/d/1ZZ4cMLkh3haZwCm0CLtXsImgG-ojxc2Q/view?usp=sharing
+
+This video shows:
+- Background calibration
+- Real-time hand tracking
+- SAFE → WARNING → DANGER transitions
+- “DANGER DANGER” alert
